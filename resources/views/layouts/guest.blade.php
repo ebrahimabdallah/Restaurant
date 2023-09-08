@@ -63,13 +63,13 @@
   </div>
 
 {{--  --}}
-       
+              <div class="font-sans text-gray-900 antialiased min-h-screen"> {{ $slot }} </div>
 
-      <div class="font-sans text-gray-900 antialiased min-h-screen flex justify-center items-center">
+ {{--    <div class="font-sans text-gray-900 antialiased min-h-screen flex justify-center items-center">
         <div class="text-sm">
           {{ $slot }}
         </div>
-      </div>
+      </div> --}}
             {{-- Footer --}}
 
             <footer class="bg-gray-800 border-t border-gray-200">
