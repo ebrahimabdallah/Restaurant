@@ -3,7 +3,7 @@
 Browse menus and prices
 
 ## Features
-- User Registration: Customers can create user accounts to manage their reservations.
+- User Registration: Customer can create user account to manage their reservations.
 - Reservation Management: Users can view available tables, select a date and time, and make reservations.
 - Table Availability: The website displays the availability of tables based on the selected date and time.
 - User Dashboard: Customers can view and manage their reservations through a personalized dashboard.
